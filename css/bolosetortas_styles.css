@@ -1,0 +1,31 @@
+p,
+h1,
+h3 {
+    color: #0a0a0a;
+    font-size: 25px;
+    text-align: center;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 50px;
+}
+
+body {
+    background-color:#040404;
+    margin: 0;
+    padding: 0;
+}
+.card{
+   background-color: #312f2f;
+}
+
+.card-body{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
